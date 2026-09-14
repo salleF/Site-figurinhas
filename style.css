@@ -166,3 +166,29 @@ html, body {
     background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
   }
 }
+
+@media (min-width: 830px) {
+
+.card {
+  width: 637px;
+  height: 955px;
+}
+
+.button {
+  margin-top: 7em;
+  margin-right: 1em;
+  width: 13em;
+  height: 4em;
+  Font-size: 2.6em
+}
+
+.insta {
+    margin-top: 33em;
+    font-size: 1.8em;
+}
+
+.background {
+  background-position: 50% 40%;
+}
+
+}
