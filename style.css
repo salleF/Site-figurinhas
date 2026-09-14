@@ -167,7 +167,7 @@ html, body {
   }
 }
 
-@media (min-width: 830px) {
+@media (min-height: 830px) {
 
 .card {
   width: 637px;
